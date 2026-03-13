@@ -30,6 +30,10 @@
 		{
 			"Name": "DisasterRecoveryClient",
 			"Enabled": true
+		},
+		{
+			"Name": "EditorSysConfigAssistant",
+			"Enabled": true
 		}
 	]
 }
